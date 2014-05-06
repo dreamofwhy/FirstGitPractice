@@ -2,8 +2,11 @@
 
 
 == Favorite Movies: ==
-Star Wars
+* Star Wars
+
+
 
 
 
 == Favorite Songs:==
+* Happy Birthday
