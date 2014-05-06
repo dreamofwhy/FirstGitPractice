@@ -6,7 +6,9 @@ A repository to use to get familiar with Git and GitHub
 
 ##Preliminary work##
 
-In the lab or on a laptop you will bring to class:
+Read the following before class: https://help.github.com/articles/fork-a-repo
+
+Prepare either your own laptop or a machine in the CS Lab by doing the following before class:
 
 ###Windows###
 
