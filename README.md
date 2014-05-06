@@ -86,8 +86,9 @@ You can customize the commit message in this step
 This will generate a pull request back to cs360f14/FirstGitPractice.  You could have done this step in your web browser as you did in step 4.
 
 NOTE: Step 4 and 5 could be replaced with the single step:
-git pull upstream master
+`git pull upstream master`
 
-origin: https://github.com/USERNAME/FirstGitPractice.git
-upstream: https://github.com/cs360f14/FirstGitPractice.git
-master: the master branch in the local repository
+###A few terms:###
+`origin`: https://github.com/USERNAME/FirstGitPractice.git
+`upstream`: https://github.com/cs360f14/FirstGitPractice.git
+`master`: the master branch in the local repository
