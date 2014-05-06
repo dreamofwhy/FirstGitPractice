@@ -50,11 +50,11 @@ In the lab or on a laptop you will bring to class:
 3. In your forked copy, use the online file editor to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the GitHub flavored markdown. https://help.github.com/articles/github-flavored-markdown
 
-4. Issue a pull request back to the original repository.  Green button.
+4. Issue a pull request back to the original repository.  Green button at the top left.
 
-5. Review at least one other student’s pull request to indicate if that student followed directions correctly.  
+5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f14/FirstGitPractice and looking through the pull requests.  The upside-down U icon on the right of the repository.
 
-6. Wait for a few minutes for your pull request to get accepted back to the upstream repository.
+6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
 
 ### From the GitHub Shell or command line: ###
 
