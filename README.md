@@ -90,5 +90,8 @@ NOTE: Step 4 and 5 could be replaced with the single step:
 
 ###A few terms:###
 `origin`: https://github.com/USERNAME/FirstGitPractice.git
+
 `upstream`: https://github.com/cs360f14/FirstGitPractice.git
+
 `master`: the master branch in the local repository
+
