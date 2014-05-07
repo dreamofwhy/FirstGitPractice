@@ -91,7 +91,7 @@ NOTE: Step 4 and 5 could be replaced with the single step:
 `git pull upstream master`
 
 
-## Git with Branches ## 
+##Git with Branches
 
 ### From the GitHub Shell or command line: ###
 Why would I want to branch?  A branch creates an editable copy of the repository so you can make commits without necessarily putting the commits into the main line of development.  This is good for adding a feature, a bug fix, or some other set of commits that make end up as a pull request back to another Git repository.  
