@@ -90,6 +90,76 @@ This will generate a pull request back to cs360f14/FirstGitPractice.  You could 
 NOTE: Step 4 and 5 could be replaced with the single step:
 `git pull upstream master`
 
+
+## Git with Branches ## 
+
+### From the GitHub Shell or command line: ###
+Why would I want to branch?  A branch creates an editable copy of the repository so you can make commits without necessarily putting the commits into the main line of development.  This is good for adding a feature, a bug fix, or some other set of commits that make end up as a pull request back to another Git repository.  
+
+The last reason, for a pull request, is especially important.  If you make a pull request and the target of the pull request asks you to modify the pull request in any way, you can just make changes on that branch and the pull request is altered.  Once the pull request is accepted, or the changes from the branch are merged back into main, the branch can be deleted (but this is not required).
+
+1. Starting from the directory `FirstGitPractice` again
+
+2. `git branch AddAuthors`
+
+3. `git checkout AddAuthors`
+
+4. Use Geany to edit dataFile.md and add your favorite author to the end of the file
+
+5. `git add dataFile.md`
+
+8. `git commit -m “added an Author!”`
+You can customize the commit message in this step
+
+9. `git push upstream AddAuthors` Push the commits from AddAuthors branch to upstream.  
+
+10. Go look at your pull request on cs360f14/FirstGitPractice.
+
+11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
+
+12. `git add dataFile.md`
+
+13. `git commit -m “added an Author ALL CAPS!”`
+
+14. `git push upstream AddAuthors` 
+
+15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
+
+16. Finally, `git merge AddAuthors` copy the commits from AddAuthors over to main
+
+###Alternate Path ###
+You could have also done the following:
+1. Starting from the directory `FirstGitPractice` again
+
+2. `git branch AddAuthors`
+
+3. `git checkout AddAuthors`
+
+4. Use Geany to edit dataFile.md and add your favorite author to the end of the file
+
+5. `git add dataFile.md`
+
+8. `git commit -m “added an Author!”`
+You can customize the commit message in this step
+
+9. `git push origin AddAuthors` Push the commits from AddAuthors branch to origin.  
+
+10. On the web: Go to your GitHub account and make a Pull Request back to cs360f14/FirstGitPractice
+
+10. Go look at your pull request on cs360f14/FirstGitPractice.
+
+11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
+
+12. `git add dataFile.md`
+
+13. `git commit -m “added an Author ALL CAPS!”`
+
+14. `git push origin AddAuthors` 
+
+15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
+
+16. Finally, `git merge AddAuthors` copy the commits from AddAuthors over to main
+
 ###A few terms:###
 `origin`: https://github.com/USERNAME/FirstGitPractice.git
 
