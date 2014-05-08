@@ -8,8 +8,6 @@ A repository to use to get familiar with Git and GitHub
 
 Complete the following online exercise: https://try.github.io/levels/1/challenges/1
 
-Read the following before class and practice the steps with the Spoon-Knife repository: https://help.github.com/articles/fork-a-repo
-
 Prepare either your own laptop or a machine in the CS Lab by doing the following before class:
 
 ###Windows###
@@ -161,6 +159,9 @@ You can customize the commit message in this step
 15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
 
 16. Finally, `git merge AddAuthors` copy the commits from AddAuthors over to main
+
+###Further Documenation###
+[Fork A Repo] (https://help.github.com/articles/fork-a-repo)
 
 ###A few terms:###
 `origin`: https://github.com/USERNAME/FirstGitPractice.git
