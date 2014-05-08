@@ -32,7 +32,7 @@ Prepare either your own laptop or a machine in the CS Lab by doing the following
 ###Linux###
 
   1. Make sure git is installed.
-  2.  [Generate SSH keys to use with GitHub by following these directions] (https://help.github.com/articles/generating-ssh-keys) Step 4 in the GitHub directions must be successful before class.
+  2. [Generate SSH keys to use with GitHub] (https://help.github.com/articles/generating-ssh-keys) Step 4 in the linked directions must be successful before class.
   3. Stop. You are done until class.
 
 ###Mac###
@@ -50,7 +50,7 @@ Prepare either your own laptop or a machine in the CS Lab by doing the following
 2. Fork the cs360f14/FirstGitPractice repository.  This is the upstream repository.
 
 3. In your forked copy, use the online file editor to edit dataFile.md.
-This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the GitHub flavored markdown. https://help.github.com/articles/github-flavored-markdown
+This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics)
 
 4. Issue a pull request back to the original repository.  Green button at the top left.
 
@@ -164,9 +164,9 @@ You can customize the commit message in this step
 [Fork A Repo] (https://help.github.com/articles/fork-a-repo)
 
 ###A few terms:###
-`origin`: https://github.com/USERNAME/FirstGitPractice.git
+`origin`: https://github.com/USERNAME/FirstGitPractice.git - the address of your GitHub repository
 
-`upstream`: https://github.com/cs360f14/FirstGitPractice.git
+`upstream`: https://github.com/cs360f14/FirstGitPractice.git - the address of the original GitHub repository
 
 `master`: the master branch in the local repository
 
