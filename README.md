@@ -8,7 +8,7 @@ A repository to use to get familiar with Git and GitHub
 
 Complete the following online exercise: https://try.github.io/levels/1/challenges/1
 
-Read the following before class: https://help.github.com/articles/fork-a-repo
+Read the following before class and practice the steps with the Spoon-Knife repository: https://help.github.com/articles/fork-a-repo
 
 Prepare either your own laptop or a machine in the CS Lab by doing the following before class:
 
