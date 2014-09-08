@@ -10,36 +10,12 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 
 Prepare either your own laptop or a machine in the CS Lab by doing the following before class:
 
-###Windows###
-
-  
-  1. Install GitHub for Windows. You should be able to do this with a non-administrator account.  You can do this in the CS lab.
-  2. Connect
-    * Give your GitHub account information
-    * Login
-    * At this point you may receive an email from GitHub indicating that a new public key was added to your account. This is legit.
-  3. Configure
-    * Your username and email is auto-filled in.
-    * Change these values if you need to.
-    * Continue
-  4. Repositories
-    * Skip.
-
-  5. Stop. You are done until class.
-    
-  You should now have an icon for GitHub and an icon for GitShell on your Desktop.
 
 ###Linux###
 
   1. Make sure git is installed.
   2. [Generate SSH keys to use with GitHub] (https://help.github.com/articles/generating-ssh-keys) Step 4 in the linked directions must be successful before class.
   3. Stop. You are done until class.
-
-###Mac###
-
-  I do not recommend using a Mac for this course.  The best option for a Mac is to install either Windows or Linux in VirtualBox.
-
-  If you must use OS X then either follow the Linux instructions above or use the GitHub for Mac application for Mac OS X 10.7 and above.  I have never used GitHub for Mac.
 
 
 ## In Class ##
