@@ -99,7 +99,9 @@ You can customize the commit message in this step
 
 15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
 
-16. Finally, `git merge AddAuthors` copy the commits from AddAuthors over to main
+16. `git checkout master`
+
+17. Finally, `git merge --no-ff AddAuthors` copy the commits from AddAuthors over to master
 
 ###Alternate Path ###
 You could have also done the following:
@@ -120,19 +122,22 @@ You can customize the commit message in this step
 
 10. On the web: Go to your GitHub account and make a Pull Request back to cs360f14/FirstGitPractice
 
-10. Go look at your pull request on cs360f14/FirstGitPractice.
+11. Go look at your pull request on cs360f14/FirstGitPractice.
 
-11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
+12. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
 
-12. `git add dataFile.md`
+13. `git add dataFile.md`
 
-13. `git commit -m “added an Author ALL CAPS!”`
+14. `git commit -m “added an Author ALL CAPS!”`
 
-14. `git push origin AddAuthors` 
+15. `git push origin AddAuthors` 
 
-15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
+16. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
 
-16. Finally, `git merge AddAuthors` copy the commits from AddAuthors over to main
+17. `git checkout master`
+
+18. Finally, `git merge --no-ff AddAuthors` copy the commits from AddAuthors over to master
+
 
 ###Further Documenation###
 [Fork A Repo] (https://help.github.com/articles/fork-a-repo)
