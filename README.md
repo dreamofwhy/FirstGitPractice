@@ -143,9 +143,9 @@ You can customize the commit message in this step
 [Fork A Repo] (https://help.github.com/articles/fork-a-repo)
 
 ###A few terms:###
-`origin`: https://github.com/USERNAME/FirstGitPractice.git - the address of your GitHub repository
+`origin`: git@github.com:USERNAME/FirstGitPractice.git - the address of your GitHub repository
 
-`upstream`: https://github.com/cs360f14/FirstGitPractice.git - the address of the original GitHub repository
+`upstream`: git@github.com:cs360f14/FirstGitPractice.git - the address of the original GitHub repository
 
 `master`: the master branch in the local repository
 
