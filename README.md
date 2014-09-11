@@ -41,7 +41,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
   2. `cat dataFile.md` -  list the contents of the file dataFile.md
  
 
-3. `git remote add upstream https://github.com/cs360f14/FirstGitPractice.git`
+3. `git remote add upstream git@github.com:cs360f14/FirstGitPractice.git`
 
 4. `git fetch upstream`
 
