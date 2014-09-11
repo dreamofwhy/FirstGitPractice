@@ -74,9 +74,9 @@ The last reason, for a pull request, is especially important.  If you make a pul
 
 1. Starting from the directory `FirstGitPractice` again
 
-2. `git branch AddAuthors`
+2. `git branch AddAuthors_PUNetID`
 
-3. `git checkout AddAuthors`
+3. `git checkout AddAuthors_PUNetID`
 
 4. Use Geany to edit dataFile.md and add your favorite author to the end of the file
 
@@ -85,7 +85,7 @@ The last reason, for a pull request, is especially important.  If you make a pul
 8. `git commit -m “added an Author!”`
 You can customize the commit message in this step
 
-9. `git push upstream AddAuthors` Push the commits from AddAuthors branch to upstream.  
+9. `git push upstream AddAuthors_PUNetID` Push the commits from AddAuthors branch to upstream.  
 
 10. Go look at your pull request on cs360f14/FirstGitPractice.
 
@@ -95,21 +95,21 @@ You can customize the commit message in this step
 
 13. `git commit -m “added an Author ALL CAPS!”`
 
-14. `git push upstream AddAuthors` 
+14. `git push upstream AddAuthors_PUNetID` 
 
-15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
+15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?  You will need to look at the AddAuthors_PUNetID branch.
 
 16. `git checkout master`
 
-17. Finally, `git merge --no-ff AddAuthors` copy the commits from AddAuthors over to master
+17. Finally, `git merge --no-ff AddAuthors_PUNetID` copy the commits from AddAuthors over to master
 
 ###Alternate Path ###
 You could have also done the following:
 1. Starting from the directory `FirstGitPractice` again
 
-2. `git branch AddAuthors`
+2. `git branch AddAuthors_PUNetID`
 
-3. `git checkout AddAuthors`
+3. `git checkout AddAuthors_PUNetID`
 
 4. Use Geany to edit dataFile.md and add your favorite author to the end of the file
 
@@ -118,9 +118,9 @@ You could have also done the following:
 8. `git commit -m “added an Author!”`
 You can customize the commit message in this step
 
-9. `git push origin AddAuthors` Push the commits from AddAuthors branch to origin.  
+9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to origin.  
 
-10. On the web: Go to your GitHub account and make a Pull Request back to cs360f14/FirstGitPractice
+10. On the web: Go to your GitHub account and make a Pull Request back to cs360f14/FirstGitPractice.  You need to look at the AddAuthors__PUNetID branch.
 
 11. Go look at your pull request on cs360f14/FirstGitPractice.
 
@@ -130,13 +130,13 @@ You can customize the commit message in this step
 
 14. `git commit -m “added an Author ALL CAPS!”`
 
-15. `git push origin AddAuthors` 
+15. `git push origin AddAuthors_PUNetID` 
 
 16. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
 
 17. `git checkout master`
 
-18. Finally, `git merge --no-ff AddAuthors` copy the commits from AddAuthors over to master
+18. Finally, `git merge --no-ff AddAuthors_PUNetID` copy the commits from AddAuthors over to master
 
 
 ###Further Documenation###
