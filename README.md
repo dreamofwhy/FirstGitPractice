@@ -33,6 +33,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
 
 ### From the GitHub Shell or command line: ###
+0. Do not copy and paste these commands.  The " and " do not copy well.
 
 1. `git clone git@github.com:USERNAME/FirstGitPractice.git`
 
@@ -53,7 +54,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 
 7. `git add dataFile.md`
 
-8. `git commit -m “added a second favorite movie!”`
+8. `git commit -m “added a second favorite movie”`
 You can customize the commit message in this step
 
 9. `git push origin master`
@@ -82,7 +83,7 @@ The last reason, for a pull request, is especially important.  If you make a pul
 
 5. `git add dataFile.md`
 
-8. `git commit -m “added an Author!”`
+8. `git commit -m “added an Author”`
 You can customize the commit message in this step
 
 9. `git push upstream AddAuthors_PUNetID` Push the commits from AddAuthors branch to upstream.  
@@ -93,7 +94,7 @@ You can customize the commit message in this step
 
 12. `git add dataFile.md`
 
-13. `git commit -m “added an Author ALL CAPS!”`
+13. `git commit -m “added an Author ALL CAPS”`
 
 14. `git push upstream AddAuthors_PUNetID` 
 
@@ -115,7 +116,7 @@ You could have also done the following:
 
 5. `git add dataFile.md`
 
-8. `git commit -m “added an Author!”`
+8. `git commit -m “added an Author”`
 You can customize the commit message in this step
 
 9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to origin.  
@@ -128,7 +129,7 @@ You can customize the commit message in this step
 
 13. `git add dataFile.md`
 
-14. `git commit -m “added an Author ALL CAPS!”`
+14. `git commit -m “added an Author ALL CAPS”`
 
 15. `git push origin AddAuthors_PUNetID` 
 
