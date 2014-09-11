@@ -8,17 +8,15 @@ A repository to use to get familiar with Git and GitHub
 
 Complete the following online exercise: https://try.github.io/levels/1/challenges/1
 
-Prepare either your own laptop or a machine in the CS Lab by doing the following before class:
-
+## In Class ##
 
 ###Linux###
 
+  0. Open a terminal
   1. Make sure git is installed.
   2. [Generate SSH keys to use with GitHub] (https://help.github.com/articles/generating-ssh-keys) Step 4 in the linked directions must be successful before class.
-  3. Stop. You are done until class.
+  3. Stop.
 
-
-## In Class ##
 
 ### In your web browser ###
 1. Log into GitHub.
