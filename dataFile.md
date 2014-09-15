@@ -5,7 +5,7 @@
 * Star Wars
 * Godzilla
 * The Last Unicorn
-
+* The Last Samurai
 
 
 == Favorite Songs:==
