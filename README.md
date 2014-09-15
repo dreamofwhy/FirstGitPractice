@@ -59,8 +59,8 @@ You can customize the commit message in this step
 
 9. `git push origin master`
 
-10. `git push upstream master`
-This will generate a pull request back to cs360f14/FirstGitPractice.  You could have done this step in your web browser as you did in step 4.
+10. ~~`git push upstream master`~~
+~~This will generate a pull request back to cs360f14/FirstGitPractice.  You could have done this step in your web browser as you did in step 4.~~  You must generate the pull request from your web browser.
 
 NOTE: Step 4 and 5 could be replaced with the single step:
 `git pull upstream master`
