@@ -5,6 +5,7 @@
 * Star Wars
 * Godzilla
 * The Last Unicorn
+* Lord of the Rings
 
 
 
