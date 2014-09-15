@@ -24,3 +24,4 @@
 * Happy Birthday
 * :)
 * Don't Fear The Reaper
+* King of Anything
