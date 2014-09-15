@@ -17,8 +17,10 @@
 * Tombstone
 * The Lord of the Rings
 * Pulp Fiction
+* Yellow Submarine
 
 
 == Favorite Songs:==
 * Happy Birthday
 * :)
+* Don't Fear The Reaper
