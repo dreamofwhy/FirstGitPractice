@@ -86,9 +86,9 @@ The last reason, for a pull request, is especially important.  If you make a pul
 8. `git commit -m “added an Author”`
 You can customize the commit message in this step
 
-9. `git push upstream AddAuthors_PUNetID` Push the commits from AddAuthors branch to upstream.  
+9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request from your web browser.
 
-10. Go look at your pull request on the AddAuthors_PUNetID branch in cs360f14/FirstGitPractice.  You can press the green "Compare & pull request" button to create a pull request.
+10. Go look at your pull request on the AddAuthors_PUNetID branch in cs360f14/FirstGitPractice.
 
 11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
 
@@ -96,7 +96,7 @@ You can customize the commit message in this step
 
 13. `git commit -m “added an Author ALL CAPS”`
 
-14. `git push upstream AddAuthors_PUNetID` 
+14. `git push origin AddAuthors_PUNetID`
 
 15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?  You will need to look at the AddAuthors_PUNetID branch.
 
