@@ -15,6 +15,7 @@
 * Pokemon 2000
 * Anchorman
 * Tombstone
+* The Lord of the Rings
 
 
 == Favorite Songs:==
