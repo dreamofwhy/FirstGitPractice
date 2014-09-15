@@ -7,7 +7,7 @@
 * The Last Unicorn
 * The First Unicorn
 * Moulin Rouge
-
+* The Last Samurai
 
 
 == Favorite Songs:==
