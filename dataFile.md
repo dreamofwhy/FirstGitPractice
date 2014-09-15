@@ -11,6 +11,8 @@
 * The GodFather 2 
 * Sharknado
 * Spider Man
+* Lord of the Rings
+
 
 
 == Favorite Songs:==
