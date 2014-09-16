@@ -104,41 +104,6 @@ You can customize the commit message in this step
 
 17. Finally, `git merge --no-ff AddAuthors_PUNetID` copy the commits from AddAuthors over to master
 
-###Alternate Path ###
-You could have also done the following:
-1. Starting from the directory `FirstGitPractice` again
-
-2. `git branch AddAuthors_PUNetID`
-
-3. `git checkout AddAuthors_PUNetID`
-
-4. Use Geany to edit dataFile.md and add your favorite author to the end of the file
-
-5. `git add dataFile.md`
-
-8. `git commit -m “added an Author”`
-You can customize the commit message in this step
-
-9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to origin.  
-
-10. On the web: Go to your GitHub account and make a Pull Request back to cs360f14/FirstGitPractice.  You need to look at the AddAuthors_PUNetID branch.
-
-11. Go look at your pull request on cs360f14/FirstGitPractice.
-
-12. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
-
-13. `git add dataFile.md`
-
-14. `git commit -m “added an Author ALL CAPS”`
-
-15. `git push origin AddAuthors_PUNetID` 
-
-16. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?
-
-17. `git checkout master`
-
-18. Finally, `git merge --no-ff AddAuthors_PUNetID` copy the commits from AddAuthors over to master
-
 
 ###Further Documenation###
 [Fork A Repo] (https://help.github.com/articles/fork-a-repo)
