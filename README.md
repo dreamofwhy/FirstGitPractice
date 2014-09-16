@@ -74,34 +74,23 @@ Why would I want to branch?  A branch creates an editable copy of the repository
 The last reason, for a pull request, is especially important.  If you make a pull request and the target of the pull request asks you to modify the pull request in any way, you can just make changes on that branch and the pull request is altered.  Once the pull request is accepted, or the changes from the branch are merged back into main, the branch can be deleted (but this is not required).
 
 1. Starting from the directory `FirstGitPractice` again
-
+2. Make sure you are up-to-date.
+  * `git fetch upstream`
+  * `git merge upstream/master`
 2. `git branch AddAuthors_PUNetID`
-
 3. `git checkout AddAuthors_PUNetID`
-
 4. Use Geany to edit dataFile.md and add your favorite author to the end of the file
-
 5. `git add dataFile.md`
-
 8. `git commit -m “added an Author”`
 You can customize the commit message in this step
-
 9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request from your web browser.
-
 10. Go look at your pull request on the AddAuthors_PUNetID branch in cs360f14/FirstGitPractice.
-
 11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
-
 12. `git add dataFile.md`
-
 13. `git commit -m “added an Author ALL CAPS”`
-
 14. `git push origin AddAuthors_PUNetID`
-
 15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?  You will need to look at the AddAuthors_PUNetID branch.
-
 16. `git checkout master`
-
 17. Finally, `git merge --no-ff AddAuthors_PUNetID` copy the commits from AddAuthors over to master
 
 
