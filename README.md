@@ -83,15 +83,25 @@ The last reason, for a pull request, is especially important.  If you make a pul
 5. `git add dataFile.md`
 8. `git commit -m “added an Author”`
 You can customize the commit message in this step
-9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request from your web browser.
+9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request to cs360f14/FirstGitPractice from your web browser if one is not automatically generated.
 10. Go look at your pull request on the AddAuthors_PUNetID branch in cs360f14/FirstGitPractice.
 11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
 12. `git add dataFile.md`
 13. `git commit -m “added an Author ALL CAPS”`
 14. `git push origin AddAuthors_PUNetID`
-15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?  You will need to look at the AddAuthors_PUNetID branch.
-16. `git checkout master`
-17. Finally, `git merge --no-ff AddAuthors_PUNetID` copy the commits from AddAuthors over to master
+15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?  
+16. Wait for the pull request to get accepted.
+16. `git checkout master`  You may see the following error. That is acceptable.
+```
+Switched to branch 'master'
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+```
+17. `git fetch upstream master` Get changes from the group repository
+18. `git merge upstream/master`
+18. `git branch -d AddAuthors_PUNetID`
+19. `git push origin master`
+20. Optionally delete the `AddAuthors_PUNetID` branch on USER/FirstGitPractice on GitHub.
 
 
 ###Further Documenation###
