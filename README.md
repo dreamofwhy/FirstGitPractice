@@ -77,6 +77,7 @@ The last reason, for a pull request, is especially important.  If you make a pul
 2. Make sure you are up-to-date.
   * `git fetch upstream`
   * `git merge upstream/master`
+  * `git push origin master`
 2. `git branch AddAuthors_PUNetID`
 3. `git checkout AddAuthors_PUNetID`
 4. Use Geany to edit dataFile.md and add your favorite author to the end of the file
