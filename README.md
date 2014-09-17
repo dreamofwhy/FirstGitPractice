@@ -77,6 +77,10 @@ The last reason, for a pull request, is especially important.  If you make a pul
 2. Make sure you are up-to-date.
   * `git fetch upstream`
   * `git merge upstream/master`
+    * Resolve conflict if necessary
+    * edit file, remove >>> ==== <<< lines
+    * `git add ...`
+    * `git commit -m "message" `
   * `git push origin master`
 2. `git branch AddAuthors_PUNetID`
 3. `git checkout AddAuthors_PUNetID`
