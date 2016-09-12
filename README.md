@@ -38,7 +38,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 1. `git clone git@github.com:USERNAME/FirstGitPractice.git`
 
 2. `cd FirstGitPractice`
-  2. `dir` - see the files in this directory
+  2. `ls -al` - see the files in this directory
   2. `cat dataFile.md` -  list the contents of the file dataFile.md
  
 
@@ -47,7 +47,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 4. `git fetch upstream`
 
 5. `git merge upstream/master`
-  5. `dir`
+  5. `ls -al`
   5. `cat dataFile.md`
 
 6. Edit dataFile.md with Geany to add a second favorite movie.
