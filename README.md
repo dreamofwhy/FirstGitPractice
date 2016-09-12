@@ -21,14 +21,14 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 ### In your web browser ###
 1. Log into GitHub.
 
-2. Fork the cs360f14/FirstGitPractice repository.  This is the upstream repository.
+2. Fork the cs360f16/FirstGitPractice repository.  This is the upstream repository.
 
 3. In your forked copy, use the online file editor to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics)
 
 4. Issue a pull request back to the original repository.  Green button at the top left.
 
-5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f14/FirstGitPractice and looking through the pull requests.  The upside-down U icon on the right of the repository.
+5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f16/FirstGitPractice and looking through the pull requests.  The upside-down U icon on the right of the repository.
 
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
 
@@ -42,7 +42,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
   2. `cat dataFile.md` -  list the contents of the file dataFile.md
  
 
-3. `git remote add upstream git@github.com:cs360f14/FirstGitPractice.git`
+3. `git remote add upstream git@github.com:cs360f16/FirstGitPractice.git`
 
 4. `git fetch upstream`
 
@@ -60,7 +60,7 @@ You can customize the commit message in this step
 9. `git push origin master`
 
 10. ~~`git push upstream master`~~
-~~This will generate a pull request back to cs360f14/FirstGitPractice.  You could have done this step in your web browser as you did in step 4.~~  You must generate the pull request from your web browser.
+~~This will generate a pull request back to cs360f16/FirstGitPractice.  You could have done this step in your web browser as you did in step 4.~~  You must generate the pull request from your web browser.
 
 NOTE: Step 4 and 5 could be replaced with the single step:
 `git pull upstream master`
@@ -88,13 +88,13 @@ The last reason, for a pull request, is especially important.  If you make a pul
 5. `git add dataFile.md`
 8. `git commit -m “added an Author”`
 You can customize the commit message in this step
-9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request to cs360f14/FirstGitPractice from your web browser if one is not automatically generated.
-10. Go look at your pull request on the AddAuthors_PUNetID branch in cs360f14/FirstGitPractice.
+9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request to cs360f16/FirstGitPractice from your web browser if one is not automatically generated.
+10. Go look at your pull request on the AddAuthors_PUNetID branch in cs360f16/FirstGitPractice.
 11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
 12. `git add dataFile.md`
 13. `git commit -m “added an Author ALL CAPS”`
 14. `git push origin AddAuthors_PUNetID`
-15. Go look at your pull request on cs360f14/FirstGitPractice.  Does it reflect the new commits?  
+15. Go look at your pull request on cs360f16/FirstGitPractice.  Does it reflect the new commits?  
 16. Wait for the pull request to get accepted.
 16. `git checkout master`  You may see the following error. That is acceptable.
 ```
@@ -115,7 +115,7 @@ Your branch is ahead of 'origin/master' by 2 commits.
 ###A few terms:###
 `origin`: git@github.com:USERNAME/FirstGitPractice.git - the address of your GitHub repository
 
-`upstream`: git@github.com:cs360f14/FirstGitPractice.git - the address of the original GitHub repository
+`upstream`: git@github.com:cs360f16/FirstGitPractice.git - the address of the original GitHub repository
 
 `master`: the master branch in the local repository
 
