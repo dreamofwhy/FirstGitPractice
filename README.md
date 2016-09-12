@@ -14,7 +14,7 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 
   0. Open a terminal
   1. Make sure git is installed.
-  2. [Generate SSH keys to use with GitHub] (https://help.github.com/articles/generating-ssh-keys)
+  2. [Generate SSH keys to use with GitHub] (https://help.github.com/articles/generating-ssh-keys) This is a per-machine operation or you need to copy around your SSH keys to each machine you use!
   3. Stop.
 
 
