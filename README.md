@@ -3,6 +3,7 @@ FirstGitPractice
 
 A repository to use to get familiar with Git and GitHub.  Note that GitHub generally guides you through the user interface using `big green buttons`.
 
+Note: I don't use `--no-ff` below to simplifiy the history. I recommend that with GitHub, you don't use `--no-ff`
 
 ##Preliminary work##
 
@@ -52,6 +53,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
  
 
 3. `git remote add upstream git@github.com:cs360f16/FirstGitPractice.git`
+4. `git remote -v`
 
 4. `git fetch upstream`
 
@@ -70,7 +72,7 @@ You can customize the commit message in this step
 
 10. You must generate the pull request from your web browser.
 
-NOTE: Step 5 and 6 could be replaced with the single step:
+NOTE: Step 6 and 7 could be replaced with the single step:
 `git pull upstream master`
 
 
@@ -96,7 +98,7 @@ The last reason, for a pull request, is especially important.  If you make a pul
 5. `git add dataFile.md`
 8. `git commit -m “added an Author”`
 You can customize the commit message in this step
-9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request to cs360f16/FirstGitPractice from your web browser if one is not automatically generated.
+9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  **Also:** Generate a pull request to cs360f16/FirstGitPractice from your web browser if one is not automatically generated.  Make sure you are looking at branch `AddAuthors_PUNetID` in your web browser.
 10. Go look at your pull request on the AddAuthors_PUNetID branch in cs360f16/FirstGitPractice.
 11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
 12. `git add dataFile.md`
@@ -110,8 +112,10 @@ Switched to branch 'master'
 Your branch is ahead of 'origin/master' by 2 commits.
   (use "git push" to publish your local commits)
 ```
+17. `cat dataFile.md`
 17. `git fetch upstream master` Get changes from the group repository
 18. `git merge upstream/master`
+17. `cat dataFile.md`
 18. `git branch -d AddAuthors_PUNetID`
 19. `git push origin master`
 20. Optionally delete the `AddAuthors_PUNetID` branch on USER/FirstGitPractice on GitHub.
