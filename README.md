@@ -30,7 +30,11 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 3. In your forked copy, use the online file editor in your web browser to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics)  Commit directly to master branch.
 
-4. Go back to the forked repository. Issue a pull request back to the `upstream`  repository.  The Pull Request icon in the top right.  
+4. Go back to the forked repository. Issue a pull request back to the `upstream`  repository.  
+  * The Pull Request icon in the top right.  
+  * Big green button to Create pull request.  
+  * Add a short comment. Then press the green Create pull request button.
+  * DONE!
 
 5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f16/FirstGitPractice and looking through the pull requests.
 
