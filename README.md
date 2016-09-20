@@ -12,6 +12,7 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 
 ###Linux###
 
+  0. Log into GitHub
   0. Open a terminal
   1. Make sure git is installed.
   2. Generate SSH keys to use with GitHub.
