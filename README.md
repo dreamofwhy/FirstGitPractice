@@ -39,8 +39,9 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f16/FirstGitPractice and looking through the pull requests.  Write a comment and if the student's pull request contains an error, Request Changes, if the student's pull request is correct, Approve.
 
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
+7. Stop.
 
-### From the GitHub Shell or command line: ###
+### From the command line: ###
 0. Do not copy and paste these commands.  The " and " do not copy well.
 
 1. `git clone git@github.com:USERNAME/FirstGitPractice.git`
@@ -75,7 +76,7 @@ NOTE: Step 5 and 6 could be replaced with the single step:
 
 ##Git with Branches
 
-### From the GitHub Shell or command line: ###
+### From the command line: ###
 Why would I want to branch?  A branch creates an editable copy of the repository so you can make commits without necessarily putting the commits into the main line of development.  This is good for adding a feature, a bug fix, or some other set of commits that make end up as a pull request back to another Git repository.  
 
 The last reason, for a pull request, is especially important.  If you make a pull request and the target of the pull request asks you to modify the pull request in any way, you can just make changes on that branch and the pull request is altered.  Once the pull request is accepted, or the changes from the branch are merged back into main, the branch can be deleted (but this is not required).
