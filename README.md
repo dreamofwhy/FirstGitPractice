@@ -1,7 +1,7 @@
 FirstGitPractice
 ================
 
-A repository to use to get familiar with Git and GitHub
+A repository to use to get familiar with Git and GitHub.  Note that GitHub generally guides you through the user interface using `big green buttons`.
 
 
 ##Preliminary work##
@@ -36,7 +36,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
   * Add a short comment. Then press the green Create pull request button.
   * DONE!
 
-5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f16/FirstGitPractice and looking through the pull requests.
+5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f16/FirstGitPractice and looking through the pull requests.  Write a comment and if the student's pull request contains an error, Request Changes, if the student's pull request is correct, Approve.
 
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
 
