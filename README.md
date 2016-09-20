@@ -25,7 +25,7 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 ### In your web browser ###
 1. Log into GitHub.
 
-2. Fork the cs360f16/FirstGitPractice repository.  cs360f16/FirstGitPractice is the `upstream` repository.  The forked copy will be the `origin` repository.
+2. Fork the `cs360f16/FirstGitPractice` repository.  `cs360f16/FirstGitPractice` is the `upstream` repository.  The forked copy `you/FirstGitPractice` will be the `origin` repository.
 
 3. In your forked copy, use the online file editor in your web browser to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics)
@@ -63,10 +63,9 @@ You can customize the commit message in this step
 
 9. `git push origin master`
 
-10. ~~`git push upstream master`~~
-~~This will generate a pull request back to cs360f16/FirstGitPractice.  You could have done this step in your web browser as you did in step 4.~~  You must generate the pull request from your web browser.
+10. You must generate the pull request from your web browser.
 
-NOTE: Step 4 and 5 could be replaced with the single step:
+NOTE: Step 5 and 6 could be replaced with the single step:
 `git pull upstream master`
 
 
