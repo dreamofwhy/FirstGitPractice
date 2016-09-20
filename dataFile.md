@@ -29,4 +29,4 @@
 * that one song you always hear
 
 == Favorite Authors ==
-* Ken Kesey
+* KEN KESEY
