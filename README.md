@@ -21,14 +21,14 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 ### In your web browser ###
 1. Log into GitHub.
 
-2. Fork the cs360f16/FirstGitPractice repository.  This is the upstream repository.
+2. Fork the cs360f16/FirstGitPractice repository.  cs360f16/FirstGitPractice is the `upstream` repository.  The forked copy will be the `origin` repository.
 
-3. In your forked copy, use the online file editor to edit dataFile.md.
+3. In your forked copy, use the online file editor in your web browser to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics)
 
 4. Issue a pull request back to the original repository.  Green button at the top left.
 
-5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f16/FirstGitPractice and looking through the pull requests.  The upside-down U icon on the right of the repository.
+5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to cs360f16/FirstGitPractice and looking through the pull requests.
 
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
 
