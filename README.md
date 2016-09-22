@@ -31,7 +31,9 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 
 2. Fork the `cs360f16/FirstGitPractice` repository.  `cs360f16/FirstGitPractice` is the `upstream` repository.  The forked copy `USERNAME/FirstGitPractice` will be the `origin` repository.
 
-3. In your forked copy, use the online file editor in your web browser to edit dataFile.md.
+3. In your forked copy, make a branch `PUNETID_FirstBranch`
+
+3. On the branch `PUNETID_FirstBranch`, use the online file editor in your web browser to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics).  
   * Commit directly to master branch.
 
@@ -44,6 +46,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to [cs360f16/FirstGitPractice] (https://github.com/cs360f16/FirstGitPractice) and looking through the Pull Requests (top left).  Write a comment and if the student's pull request contains an error, Request Changes, if the student's pull request is correct, Approve.
 
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
+
 7. Stop.
 
 ### From the command line: ###
@@ -54,6 +57,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 1. `git clone git@github.com:USERNAME/FirstGitPractice.git # clone the repository to your local machine`
 
 2. `cd FirstGitPractice`
+  3. `git branch # you must be on master` 
   2. `ls -al` - see the files in this directory
   2. `cat dataFile.md` -  list the contents of the file dataFile.md
  
@@ -61,24 +65,17 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 3. `git remote add upstream git@github.com:cs360f16/FirstGitPractice.git # connect your local repos to the shared repos`
 4. `git remote -v`
 
-4. `git fetch upstream`
+4. `git fetch upstream # get changes from upstream`
 
-5. `git merge upstream/master`
+5. `git merge upstream/master # merge changes from upstream to local master`
   5. `ls -al`
   5. `cat dataFile.md`
+  
+6. `git push origin master # push changes from upstream to origin` 
 
-6. `geany -i dataFile.md & #` Edit dataFile.md with Geany to add a second favorite movie .
+7. Check GitHub to make sure `USERNAME/FirstGitPractice` has updated correctly.
 
-7. `git add dataFile.md`
-
-8. `git commit -m “added a second favorite movie” # commit to your local repos`
-You can customize the commit message in this step
-
-9. `git push origin master # push your commit to USERNAME/FirstGitPratice on GitHub`
-
-10. You must generate the pull request from your web browser.
-
-NOTE: Step 8 and 9 could be replaced with the single step:
+NOTE: Step 7 and 8 could be replaced with the single step:
 `git pull upstream master`
 
 
