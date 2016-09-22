@@ -5,7 +5,7 @@ A repository to use to get familiar with Git and GitHub.
 
 **Note:** that GitHub generally guides you through the user interface using `big green buttons`.
 
-**Note:** I don't use `--no-ff` below to simplifiy the history. I recommend that with GitHub, you don't use `--no-ff`
+**Note:** I don't use `--no-ff` with upstream/master below to simplifiy the history. I recommend that with GitHub, you don't use `--no-ff` in this instance.  If you merge a local branch to master, I would use `--no-ff`
 
 ##Preliminary work##
 
