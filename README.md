@@ -35,7 +35,7 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 
 3. On the branch `PUNETID_FirstBranch`, use the online file editor in your web browser to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics).  
-  * Commit directly to master branch.
+  * Commit directly to `PUNETID_FirstBranch` branch.
 
 4. Go back to the forked repository. Issue a pull request back to the `upstream`  repository.  
   * The New Pull Request button on the top left then...
