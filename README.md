@@ -29,7 +29,7 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 ### In your web browser ###
 1. Log into GitHub.
 
-2. Fork the `cs360f16/FirstGitPractice` repository.  `cs360f16/FirstGitPractice` is the `upstream` repository.  The forked copy `you/FirstGitPractice` will be the `origin` repository.
+2. Fork the `cs360f16/FirstGitPractice` repository.  `cs360f16/FirstGitPractice` is the `upstream` repository.  The forked copy `USERNAME/FirstGitPractice` will be the `origin` repository.
 
 3. In your forked copy, use the online file editor in your web browser to edit dataFile.md.
 This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics).  
@@ -74,7 +74,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 8. `git commit -m “added a second favorite movie” # commit to your local repos`
 You can customize the commit message in this step
 
-9. `git push origin master # push your commit to you/FirstGitPratice on GitHub`
+9. `git push origin master # push your commit to USERNAME/FirstGitPratice on GitHub`
 
 10. You must generate the pull request from your web browser.
 
@@ -89,7 +89,6 @@ Why would I want to branch?  A branch creates an editable copy of the repository
 
 **The last reason, for a pull request, is especially important**.  If you make a pull request and the target of the pull request asks you to modify the pull request in any way, you can just make changes on that branch and the pull request is altered.  Once the pull request is accepted, or the changes from the branch are merged back into main, the branch can be deleted (but this is not required).
 
-1. Starting from the directory `FirstGitPractice` on zeus again
 
 2. Make sure you are up-to-date.
   * `git fetch upstream # get commits from the group repository`
@@ -102,7 +101,7 @@ Why would I want to branch?  A branch creates an editable copy of the repository
     
     * `git commit -m "message" # commit to your local repos`
     
-  * `git push origin master # push to you/FirstGitPractice on GitHub`
+  * `git push origin master # push to USERNAME/FirstGitPractice on GitHub`
   
 2. `git branch AddAuthors_PUNetID # add a branch locally`
 
@@ -115,7 +114,7 @@ Why would I want to branch?  A branch creates an editable copy of the repository
 8. `git commit -m “added an Author” # commit to your local repos`
 You can customize the commit message in this step
 
-9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  This creates the branch `AddAuthors_PUNetID` on `you/FirstGitPractice` on GitHub.
+9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  This creates the branch `AddAuthors_PUNetID` on `USERNAME/FirstGitPractice` on GitHub.
 
 10. Generate a pull request to cs360f16/FirstGitPractice from your web browser if one is not automatically generated.  Make sure you are looking at branch `AddAuthors_PUNetID` in your web browser.
 
@@ -127,7 +126,7 @@ You can customize the commit message in this step
 
 13. `git commit -m “added an Author ALL CAPS” # commit locally`
 
-14. `git push origin AddAuthors_PUNetID # push new commits on this branch to you/GitFirstPractice on GitHub`
+14. `git push origin AddAuthors_PUNetID # push new commits on this branch to USERNAME/GitFirstPractice on GitHub`
 
 15. Go look at your pull request on [cs360f16/FirstGitPractice] (https://github.com/cs360f16/FirstGitPractice).  Does it reflect the new commits?  
 
@@ -149,7 +148,7 @@ Your branch is ahead of 'origin/master' by 2 commits.
 
 18. `git branch -d AddAuthors_PUNetID`
 
-19. `git push origin master # push the newly received changes from the group repos to you/FirstGitPractice on GitHub`
+19. `git push origin master # push the newly received changes from the group repos to USERNAME/FirstGitPractice on GitHub`
 
 20. Optionally delete the `AddAuthors_PUNetID` branch on USER/FirstGitPractice on GitHub.
 
