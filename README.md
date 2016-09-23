@@ -13,19 +13,6 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 
 ## In Class ##
 
-###Linux###
-
-  0. Log into GitHub
-  0. Open a terminal
-  1. Make sure git is installed.
-  2. Generate SSH keys to use with GitHub.
-    * Step 1: [Generate Keys] (https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux)
-    * Step 2: [Add key to GitHub] (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux) 
-    * This is a per-machine operation or you need to copy around your SSH keys (`~/.ssh/id_rsa`) to each machine you use!
-    * [Test your SSH keys] (https://help.github.com/articles/testing-your-ssh-connection/#platform-linux).  If you receive an error message let the instructor know.
-  3. Stop.
-
-
 ### In your web browser ###
 1. Log into GitHub.
 
@@ -48,6 +35,18 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
 
 7. Stop.
+
+###Linux###
+
+  0. Log into GitHub
+  0. Open a terminal
+  1. Make sure git is installed.
+  2. Generate SSH keys to use with GitHub.
+    * Step 1: [Generate Keys] (https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux)
+    * Step 2: [Add key to GitHub] (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux) 
+    * This is a per-machine operation or you need to copy around your SSH keys (`~/.ssh/id_rsa`) to each machine you use!
+    * [Test your SSH keys] (https://help.github.com/articles/testing-your-ssh-connection/#platform-linux).  If you receive an error message let the instructor know.
+  3. Stop.
 
 ### From the command line: ###
 
