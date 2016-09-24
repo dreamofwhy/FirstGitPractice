@@ -18,7 +18,7 @@
 * The Lord of the Rings
 * Pulp Fiction
 * Yellow Submarine
-* that one with that guy
+* Constantine
 
 
 == Favorite Songs:==
@@ -26,7 +26,7 @@
 * :)
 * Don't Fear The Reaper
 * King of Anything
-* that one song you always hear
+* MBSS
 
 == Favorite Authors ==
 * KEN KESEY
