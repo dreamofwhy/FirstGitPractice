@@ -19,7 +19,7 @@
 * Pulp Fiction
 * Yellow Submarine
 * that one with that guy
-
+* Zootopia
 
 == Favorite Songs:==
 * Happy Birthday
@@ -27,6 +27,11 @@
 * Don't Fear The Reaper
 * King of Anything
 * that one song you always hear
+* Heroes (we could be)
 
 == Favorite Authors ==
 * KEN KESEY
+* Brent Weeks
+* Orson Scott Card
+* Stuart Hill
+* Patrick Rothfuss
