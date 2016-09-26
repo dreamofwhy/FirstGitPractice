@@ -9,7 +9,6 @@
 * Moulin Rouge
 * The Last Samurai
 * The GodFather 2 
-* Sharknado
 * Spider Man
 * Lord of the Rings
 * Pokemon 2000
