@@ -50,7 +50,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 
 ### From the command line: ###
 
-0. Do not copy and paste these commands.  The " and " do not copy well.
+0. Do not copy and paste these commands.  The " and " does not copy well.
 1. In the following commands, anything past a `#` is a comment for your understanding.
 
 1. `git clone git@github.com:USERNAME/FirstGitPractice.git # clone the repository to your local machine`
