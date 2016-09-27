@@ -19,6 +19,7 @@
 * Pulp Fiction
 * Yellow Submarine
 * that one with that guy
+* Star Wars VII
 
 
 == Favorite Songs:==
@@ -27,6 +28,8 @@
 * Don't Fear The Reaper
 * King of Anything
 * that one song you always hear
+* Work
 
 == Favorite Authors ==
 * KEN KESEY
+* Some People
