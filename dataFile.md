@@ -19,6 +19,7 @@
 * Pulp Fiction
 * Yellow Submarine
 * that one with that guy
+* Star Trek Beyond
 
 
 == Favorite Songs:==
@@ -30,3 +31,4 @@
 
 == Favorite Authors ==
 * KEN KESEY
+* Brandon Sanderson
