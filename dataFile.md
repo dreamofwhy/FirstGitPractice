@@ -19,6 +19,7 @@
 * Pulp Fiction
 * Yellow Submarine
 * that one with that guy
+* In Bruges
 
 
 == Favorite Songs:==
