@@ -20,6 +20,7 @@
 * Yellow Submarine
 * that one with that guy
 * The Longest Yard
+* Porco Rosso 
 
 
 == Favorite Songs:==
@@ -29,6 +30,8 @@
 * King of Anything
 * that one song you always hear
 * What Does the Fox Say
+* Killer Queen by Queen
 
 == Favorite Authors ==
 * KEN KESEY
+* Hugh Howey
