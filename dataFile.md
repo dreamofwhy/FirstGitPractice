@@ -19,6 +19,7 @@
 * Pulp Fiction
 * Yellow Submarine
 * that one with that guy
+* Pirates of the Caribbean
 
 
 == Favorite Songs:==
@@ -27,6 +28,8 @@
 * Don't Fear The Reaper
 * King of Anything
 * that one song you always hear
+* Ill Clinton
 
 == Favorite Authors ==
 * KEN KESEY
+* Edgar Rice Burroughs
