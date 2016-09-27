@@ -27,6 +27,7 @@
 * Don't Fear The Reaper
 * King of Anything
 * that one song you always hear
+* Mansion by NF.
 
 == Favorite Authors ==
 * KEN KESEY
