@@ -19,6 +19,7 @@
 * Pulp Fiction
 * Yellow Submarine
 * that one with that guy
+* Young Frankenstine
 
 
 == Favorite Songs:==
@@ -27,6 +28,8 @@
 * Don't Fear The Reaper
 * King of Anything
 * that one song you always hear
+* Paranoid Android
 
 == Favorite Authors ==
 * KEN KESEY
+* Isaac Asimov
