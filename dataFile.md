@@ -19,6 +19,7 @@
 * Pulp Fiction
 * Yellow Submarine
 * that one with that guy
+* Labyrinth
 
 
 == Favorite Songs:==
@@ -27,6 +28,7 @@
 * Don't Fear The Reaper
 * King of Anything
 * that one song you always hear
+* Carpet Bomb Me Ted Cruz
 
 == Favorite Authors ==
 * KEN KESEY
