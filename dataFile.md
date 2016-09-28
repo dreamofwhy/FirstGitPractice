@@ -26,6 +26,7 @@
 * Young Frankenstine
 * Dumb and Dumber
 * Shawshank Redemption
+* Pirates of the Caribbean
 
 
 == Favorite Songs:==
@@ -37,6 +38,7 @@
 * What Does the Fox Say
 * Killer Queen by Queen
 * Heroes (we could be)
+* Ill Clinton
 
 == Favorite Authors ==
 * KEN KESEY
@@ -47,3 +49,4 @@
 * Patrick Rothfuss
 * Paranoid Android
 * Isaac Asimov
+* Edgar Rice Burroughs
