@@ -27,6 +27,7 @@
 * Dumb and Dumber
 * Shawshank Redemption
 * Pirates of the Caribbean
+* Batman
 
 
 == Favorite Songs:==
