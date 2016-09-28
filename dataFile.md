@@ -2,6 +2,7 @@
 
 
 == Favorite Movies: ==
+* The Notebook
 * Star Wars
 * Godzilla
 * The Last Unicorn
