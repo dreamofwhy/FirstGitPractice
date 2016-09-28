@@ -29,6 +29,7 @@
 * Pirates of the Caribbean
 * Batman
 * Aristocats
+* In Bruges
 
 
 == Favorite Songs:==
