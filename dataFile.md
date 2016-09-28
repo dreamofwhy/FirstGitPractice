@@ -28,6 +28,7 @@
 * Shawshank Redemption
 * Pirates of the Caribbean
 * Batman
+* Aristocats
 
 
 == Favorite Songs:==
