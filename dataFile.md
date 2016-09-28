@@ -31,6 +31,7 @@
 * Aristocats
 * In Bruges
 * Labyrinth
+* Constantine
 
 
 == Favorite Songs:==
@@ -45,6 +46,7 @@
 * Ill Clinton
 * Mansion by NF.
 * Carpet Bomb Me Ted Cruz
+* MBSS
 
 == Favorite Authors ==
 * KEN KESEY
