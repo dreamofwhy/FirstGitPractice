@@ -33,6 +33,7 @@
 * Labyrinth
 * Constantine
 * Maggie May
+* Star Trek Beyond
 
 
 == Favorite Songs:==
@@ -59,3 +60,4 @@
 * Paranoid Android
 * Isaac Asimov
 * Edgar Rice Burroughs
+* Brandon Sanderson
