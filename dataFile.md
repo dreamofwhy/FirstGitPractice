@@ -30,6 +30,7 @@
 * Batman
 * Aristocats
 * In Bruges
+* Labyrinth
 
 
 == Favorite Songs:==
@@ -43,6 +44,7 @@
 * Heroes (we could be)
 * Ill Clinton
 * Mansion by NF.
+* Carpet Bomb Me Ted Cruz
 
 == Favorite Authors ==
 * KEN KESEY
