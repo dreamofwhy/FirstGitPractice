@@ -20,7 +20,7 @@
 * that one with that guy
 * The Longest Yard
 * Porco Rosso 
-
+* Zootopia
 
 == Favorite Songs:==
 * Happy Birthday
@@ -34,3 +34,11 @@
 == Favorite Authors ==
 * KEN KESEY
 * Hugh Howey
+* Heroes (we could be)
+
+== Favorite Authors ==
+* KEN KESEY
+* Brent Weeks
+* Orson Scott Card
+* Stuart Hill
+* Patrick Rothfuss
