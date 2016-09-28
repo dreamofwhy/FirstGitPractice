@@ -34,6 +34,7 @@
 * Constantine
 * Maggie May
 * Star Trek Beyond
+* Star Wars VII
 
 
 == Favorite Songs:==
@@ -49,6 +50,7 @@
 * Mansion by NF.
 * Carpet Bomb Me Ted Cruz
 * MBSS
+* Work
 
 == Favorite Authors ==
 * KEN KESEY
@@ -61,3 +63,4 @@
 * Isaac Asimov
 * Edgar Rice Burroughs
 * Brandon Sanderson
+* Some People
