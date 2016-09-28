@@ -22,6 +22,8 @@
 * The Longest Yard
 * Porco Rosso 
 * Zootopia
+* Young Frankenstine
+
 
 == Favorite Songs:==
 * Happy Birthday
@@ -43,3 +45,5 @@
 * Orson Scott Card
 * Stuart Hill
 * Patrick Rothfuss
+* Paranoid Android
+* Isaac Asimov
