@@ -24,6 +24,7 @@
 * Zootopia
 * Young Frankenstine
 * Dumb and Dumber
+* Shawshank Redemption
 
 
 == Favorite Songs:==
