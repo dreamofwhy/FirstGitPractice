@@ -23,6 +23,7 @@
 * Porco Rosso 
 * Zootopia
 * Young Frankenstine
+* Dumb and Dumber
 
 
 == Favorite Songs:==
@@ -33,14 +34,11 @@
 * that one song you always hear
 * What Does the Fox Say
 * Killer Queen by Queen
-
-== Favorite Authors ==
-* KEN KESEY
-* Hugh Howey
 * Heroes (we could be)
 
 == Favorite Authors ==
 * KEN KESEY
+* Hugh Howey
 * Brent Weeks
 * Orson Scott Card
 * Stuart Hill
