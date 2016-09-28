@@ -41,6 +41,7 @@
 * Killer Queen by Queen
 * Heroes (we could be)
 * Ill Clinton
+* Mansion by NF.
 
 == Favorite Authors ==
 * KEN KESEY
