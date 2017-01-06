@@ -16,7 +16,7 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 ### In your web browser ###
 1. Log into GitHub.
 
-2. Fork the `cs360f16/FirstGitPractice` repository.  `cs360f16/FirstGitPractice` is the `upstream` repository.  The forked copy `USERNAME/FirstGitPractice` will be the `origin` repository.
+2. Fork the `chaddcw/FirstGitPractice` repository.  `chaddcw/FirstGitPractice` is the `upstream` repository.  The forked copy `USERNAME/FirstGitPractice` will be the `origin` repository.
 
 3. In your forked copy, make a branch `PUNETID_FirstBranch`
 
@@ -30,7 +30,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
   * Add a short comment. Then press the green Create pull request button.
   * DONE!
 
-5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to [cs360f16/FirstGitPractice] (https://github.com/cs360f16/FirstGitPractice) and looking through the Pull Requests (top left).  Write a comment and if the student's pull request contains an error, Request Changes, if the student's pull request is correct, Approve.
+5. Review at least one other student’s pull request to indicate if that student followed directions correctly.   Do this by navigating back to [chaddcw/FirstGitPractice] (https://github.com/chaddcw/FirstGitPractice) and looking through the Pull Requests (top left).  Write a comment and if the student's pull request contains an error, Request Changes, if the student's pull request is correct, Approve.
 
 6. Wait for a few minutes for your pull request to get accepted back to the upstream repository and for everyone to catch up.
 
@@ -61,7 +61,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
   2. `cat dataFile.md` -  list the contents of the file dataFile.md
  
 
-3. `git remote add upstream git@github.com:cs360f16/FirstGitPractice.git # connect your local repos to the shared repos`
+3. `git remote add upstream git@github.com:chaddcw/FirstGitPractice.git # connect your local repos to the shared repos`
 4. `git remote -v`
 
 4. `git fetch upstream # get changes from upstream`
@@ -112,9 +112,9 @@ You can customize the commit message in this step
 
 9. `git push origin AddAuthors_PUNetID` Push the commits from AddAuthors branch to `origin`.  This creates the branch `AddAuthors_PUNetID` on `USERNAME/FirstGitPractice` on GitHub.
 
-10. Generate a pull request to cs360f16/FirstGitPractice from your web browser if one is not automatically generated.  Make sure you are looking at branch `AddAuthors_PUNetID` in your web browser.
+10. Generate a pull request to chaddcw/FirstGitPractice from your web browser if one is not automatically generated.  Make sure you are looking at branch `AddAuthors_PUNetID` in your web browser.
 
-10. Go look at your pull request on the AddAuthors_PUNetID branch in [cs360f16/FirstGitPractice] (https://github.com/cs360f16/FirstGitPractice).
+10. Go look at your pull request on the AddAuthors_PUNetID branch in [chaddcw/FirstGitPractice] (https://github.com/chaddcw/FirstGitPractice).
 
 11. Now I want you to change the Author's name to either ALL CAPS or all lowercase letters.  Use Geany to do this locally.
 
@@ -124,7 +124,7 @@ You can customize the commit message in this step
 
 14. `git push origin AddAuthors_PUNetID # push new commits on this branch to USERNAME/GitFirstPractice on GitHub`
 
-15. Go look at your pull request on [cs360f16/FirstGitPractice] (https://github.com/cs360f16/FirstGitPractice).  Does it reflect the new commits?  
+15. Go look at your pull request on [chaddcw/FirstGitPractice] (https://github.com/chaddcw/FirstGitPractice).  Does it reflect the new commits?  
 
 16. Wait for the pull request to get accepted.
 
@@ -155,7 +155,7 @@ Your branch is ahead of 'origin/master' by 2 commits.
 ###A few terms:###
 `origin`: git@github.com:USERNAME/FirstGitPractice.git - the address of your GitHub repository
 
-`upstream`: git@github.com:cs360f16/FirstGitPractice.git - the address of the original GitHub repository
+`upstream`: git@github.com:chaddcw/FirstGitPractice.git - the address of the original GitHub repository
 
 `master`: the master branch in the local repository
 
