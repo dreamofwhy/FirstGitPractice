@@ -65,3 +65,4 @@
 * Edgar Rice Burroughs
 * Brandon Sanderson
 * Some People
+* Jasper Fforde
