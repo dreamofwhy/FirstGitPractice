@@ -7,7 +7,7 @@ A repository to use to get familiar with Git and GitHub.
 
 **Note:** I don't use `--no-ff` with upstream/master below to simplifiy the history. I recommend that with GitHub, you don't use `--no-ff` in this instance.  If you merge a local branch to master, I would use `--no-ff`
 
-##Preliminary work##
+## Preliminary work ##
 
 Complete the following online exercise: https://try.github.io/levels/1/challenges/1
 
@@ -21,7 +21,7 @@ Complete the following online exercise: https://try.github.io/levels/1/challenge
 3. In your forked copy, make a branch `PUNETID_FirstBranch`
 
 3. On the branch `PUNETID_FirstBranch`, use the online file editor in your web browser to edit dataFile.md.
-This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/github-flavored-markdown) and [Markdown Basics](https://help.github.com/articles/markdown-basics).  
+This is a file of favorite movies and/or songs.  Make sure you provide a good commit message and look at the [GitHub flavored markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) and [Markdown Basics](https://help.github.com/articles/about-writing-and-formatting-on-github/).  
   * Commit directly to `PUNETID_FirstBranch` branch.
 
 4. Go back to the forked repository. Issue a pull request back to the `upstream`  repository.  
@@ -36,7 +36,7 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 
 7. Stop.
 
-###Linux###
+### Linux ###
 
   0. Log into GitHub
   0. Open a terminal
@@ -74,11 +74,11 @@ This is a file of favorite movies and/or songs.  Make sure you provide a good co
 
 7. Check GitHub to make sure `USERNAME/FirstGitPractice` has updated correctly.
 
-NOTE: Step 7 and 8 could be replaced with the single step:
+NOTE: Step 9 and 10 could be replaced with the single step:
 `git pull upstream master`
 
 
-##Git with Branches
+## Git with Branches
 
 ### From the command line: ###
 Why would I want to branch?  A branch creates an editable copy of the repository so you can make commits without necessarily putting the commits into the main line of development.  This is good for adding a feature, a bug fix, or some other set of commits that make end up as a pull request back to another Git repository.  
@@ -149,10 +149,10 @@ Your branch is ahead of 'origin/master' by 2 commits.
 20. Optionally delete the `AddAuthors_PUNetID` branch on USER/FirstGitPractice on GitHub.
 
 
-###Further Documenation###
+### Further Documenation ###
 [Fork A Repo] (https://help.github.com/articles/fork-a-repo)
 
-###A few terms:###
+### A few terms: ###
 `origin`: git@github.com:USERNAME/FirstGitPractice.git - the address of your GitHub repository
 
 `upstream`: git@github.com:chaddcw/FirstGitPractice.git - the address of the original GitHub repository
